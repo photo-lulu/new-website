@@ -19,6 +19,23 @@ languages:
       - identifier: "about"
         name: "Über Steffi"
         url: about
-      - identifier: "sso"
-        name: "SSO"
-        url: sso
+
+outputs:
+  home: ["atom", "html", "paige-search", "rss"]
+
+# Menu:
+#  HOME
+#
+#  ÜBER MICH / UNS
+#
+#  BLOG / Reiseberichte nach Urlaubsjahren, Reisetagebuch
+#
+#  REISEPLANUNG / Roadtrips
+#
+#  FOTOGRAFIE
+#
+#  ALBUM mit Link zum Verkauf Saal Digital
+#
+#  IMPRESSUM
+#
+#  KONTAKT
