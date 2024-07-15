@@ -1,13 +1,15 @@
-+++
-title = 'Yourpost'
-date = 2024-07-14T20:36:47+02:00
-draft = false
-categories = ["Norwegen"]
-keywords = [] # ist nur für die Suchmaschienen, wird sowieso aus categories und tags befüllt
-tags = ["Reise", "2024"]
-+++
-
-# Es ist unfaßbar, …
+---
+categories:
+- Norwegen
+date: "2024-07-14T20:36:47+02:00"
+draft: true
+keywords: []
+layout: paige/cloud
+tags:
+- Reise
+- "2024"
+title: Es ist unfaßbar, …
+---
 
 … aber fünf Wochen Norwegen sind schon wieder rum – die Zeit ist wie im Flug vergangen! Wir hatten eine grandiose Zeit und wir haben eine Menge erlebt … und in Gedanken planen wir schon die nächste Reise in dieses faszinierende Land!
 
