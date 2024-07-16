@@ -3,12 +3,12 @@ menus:
   main:
     weight: 10
     parent: BLOG
-    
-title: "REISEBERICHTE"
+
+title: "REISETAGEBUCH"
 ---
 
 sdsdfdsf s
 sdf sdfsd f
-fsd 
+fsd
 sdf sdf
 fsd sfd sfd 

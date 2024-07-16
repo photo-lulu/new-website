@@ -8,7 +8,7 @@ keywords:
   - b
 tags:
   - Norwegen
-  - 2024
+  - "2024"
 title: Es ist unfaßbar, ...
 
 ---
@@ -63,7 +63,7 @@ verließen wir norwegischen Boden und fuhren auf die Fähre. Farvel Norge!
 ![Titel](/images/dddD)
 <!-- Unsere Super Speed 1 --> 
 <!-- Fährterminal in Kristiansand -->
-<!-- Kristiansand von der Fähre aus gesehen-->
+<!-- Kristiansand von der Fähre aus gesehen--> 
 
 Die weitere Heimreise war dann mittelprächtig. Wir verließen die Fähre gegen
 Viertel nach Acht am Abend mit dem Ziel, uns noch so weit wie möglich an Hamburg
@@ -103,7 +103,7 @@ Vergleich zu den anderen beiden Touren, die wir bisher im Wohnmobil gemacht
 haben, war unser Hymer jetzt sicher schon bedeutend besser und komfortabler.
 Doch wenn ich mir vor Augen halte, daß dieses Gefährt mit allem enthaltenem
 Zubehör fast 180 Tausend EUR kosten soll, dann würden mich hier einige Dinge
-schwer stören. Die getrennten Betten mit dem Potential, sich des Nachts an den
+schwer stören. Die getrennten Betten mit dem Potenzial, sich des Nachts an den
 recht tief hängenden Schränken ins Koma zu hauen, die Dusch-Sicherung aus
 Hartplastik, die ich mit meinen zarten Frauenhänden nur unter größten Mühen
 öffnen und schließen konnte (ich war kurz davor, das ganze mit einem Gummiband
@@ -131,8 +131,8 @@ erkunden! Ich kann Norwegen wirklich nur wärmstens empfehlen!
 
 Bleibt uns treu, es werden sicher demnächst noch weitere Fotos in einem Album
 folgen. Auch überlege ich, meine Website mal ein wenig zu überholen – es bleibt
-spannend!
+also spannend!
 
 Ganz liebe Grüße,
 
-STeffi & Mathias
+Steffi & Mathias

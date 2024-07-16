@@ -2,14 +2,15 @@
 description: "Search the site."
 layout: "paige/search"
 title: "SUCHE"
+date: "2024-01-01"
 
 menus:
   main:
     weight: 100
 
-# paige:
-#   feed:
-#     hide_page: true
-#   search:
-#     hide_page: true
+paige:
+  feed:
+    hide_page: true
+  search:
+    hide_page: true
 ---
