@@ -1,6 +1,6 @@
 ---
 categories:
-  - Norwegen
+  - Reisetagebuch
 date: "2024-06-16"
 draft: true
 keywords:
