@@ -1,0 +1,13 @@
+baseURL: 'https://example.org/'
+languageCode: 'de-de'
+title: 'Steffis Fotoblog'
+theme: 'Paige'
+copyright: 'Stephanie Waesch 2024&copy;'
+defaultContentLanguage: 'de'
+
+module:
+  imports:
+    - path: 'github.com/willfaught/paige'
+
+outputs:
+  home: ["atom", "html", "paige-search", "rss"]
