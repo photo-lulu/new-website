@@ -1,14 +1,14 @@
 ---
 categories:
   - Reisetagebuch
-date: "2022-08-15"
+date: "2019-06-15"
 draft: true
 keywords:
   - a
   - b
 tags:
   - Norwegen
-  - "2022"
+  - "2019"
 title: "Die Wendemarke haben wir hinter uns!"
 
 ---

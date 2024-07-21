@@ -8,7 +8,7 @@ keywords:
   - b
 tags:
   - Norwegen
-  - "2022"
+  - "2019"
 title: "Schweden im Schnelldurchlauf"
 
 ---
