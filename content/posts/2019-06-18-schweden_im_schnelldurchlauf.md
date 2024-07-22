@@ -18,9 +18,8 @@ Guten Abend allseits!
 Ich wollte mich doch noch einmal bei Euch melden. Aktuell befinden wir uns in
 Norrköping, südwestlich von Stockholm. Eigentlich wollten wir heute der
 schwedischen Hauptstadt einen Besuch abstatten, haben uns aber kurzfristig
-umentschieden.
-
-Zum einen war das reservierte Hotel teuer, aber noch kostenlos stornierbar und
+umentschieden. Zum einen war das reservierte Hotel teuer, aber noch
+kostenlos stornierbar und
 zum anderen war uns klar, daß wir mit einem max. halben Tag nur einen kleinen
 Teil der Stadt würden sehen können. Also entschieden wir uns, heute ein paar
 Kilometer dranzuhängen, zugunsten einer etwas kürzeren Etappe am morgigen Tag,
